@@ -54,10 +54,7 @@ export default {
   */
   axios: {
   },
-
-  router: {
-    base: '/space-maps/'
-  },
+  
   /*
   ** Build configuration
   */
